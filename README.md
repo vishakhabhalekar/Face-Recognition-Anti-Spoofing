@@ -125,15 +125,20 @@ Face-Recognition-Anti-Spoofing/
 
 ### Face Registration
 
-<img width="800" alt="Face Registration" src="YOUR_IMAGE_LINK" />
+<img width="1761" height="836" alt="image" src="https://github.com/user-attachments/assets/b3e20187-3b4e-4941-b091-f3d676dee9ab" />
 
-### Face Recognition
+<img width="1412" height="805" alt="image" src="https://github.com/user-attachments/assets/610f39f9-4a81-4973-ae59-28ac43f2cf54" />
 
-<img width="800" alt="Face Recognition" src="YOUR_IMAGE_LINK" />
+<img width="1808" height="832" alt="image" src="https://github.com/user-attachments/assets/a427578f-c91f-47d1-813c-98f7f850bb84" />
+<img width="1790" height="705" alt="image" src="https://github.com/user-attachments/assets/846e0f3a-4e2c-4491-b2a0-34ab78a09a78" />
+<img width="1691" height="673" alt="image" src="https://github.com/user-attachments/assets/9746e8ea-d158-4a5b-86b2-679ee6fb81b8" />
+<img width="831" height="173" alt="image" src="https://github.com/user-attachments/assets/24d5c3ce-e197-4f5b-82b6-1f5491cfb9ea" />
+<img width="1811" height="591" alt="image" src="https://github.com/user-attachments/assets/8bccc3de-263d-4766-a9e7-15f2f064a156" />
+<img width="1776" height="587" alt="image" src="https://github.com/user-attachments/assets/362a13af-19c9-45d3-9731-3c905ec4a790" />
+<img width="1812" height="532" alt="image" src="https://github.com/user-attachments/assets/11ed535a-73aa-4f53-83df-3282599aa4de" />
+<img width="1806" height="582" alt="image" src="https://github.com/user-attachments/assets/e5961736-52a2-4dd7-8fa2-2721659ec98b" />
 
-### Anti-Spoofing
-
-<img width="800" alt="Anti-Spoofing" src="YOUR_IMAGE_LINK" />
+<img width="1795" height="525" alt="image" src="https://github.com/user-attachments/assets/dbbcedad-6184-4643-97a9-dae136aba9d5" />
 
 ---
 
